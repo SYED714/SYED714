@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Syed Zeeshan Ali 👋
 
-<!--
-**SYED714/SYED714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Graduate from The University of Lahore, passionate about **Networking**, **Cybersecurity**, and **IT Support**.
 
-Here are some ideas to get you started:
+## 🔧 What I Work With
+- **Networking:** Cisco Packet Tracer, Router/Switch Configuration, LAN/WAN, TCP/IP
+- **Security:** Network Security Fundamentals, Firewall Configuration
+- **Programming:** C++, Python, Solidity, JavaScript, TypeScript
+- **Web Development:** Next.js, React, Node.js, Express.js, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- **[Auctify](https://github.com/SYED714/Auctify-Project)** — Full-stack online auction platform with real-time bidding
+- **[GridChain](https://github.com/SYED714/GridChain)** — Blockchain-based P2P energy trading platform
+
+## 📜 Certifications
+- Cisco: Introduction to Cybersecurity
+- Cybrary: Introduction to Careers in Cybersecurity
+- Fortinet FCA: FortiGate Operator (In Progress)
+
+## 📫 Connect With Me
+- LinkedIn: [linkedin.com/in/syed-zeeshan-ali-eng] (https://linkedin.com/in/syed-zeeshan-ali-eng)
+- Email: syedzeeshanali714@gmail.com
