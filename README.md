@@ -18,5 +18,6 @@ Computer Engineering Graduate from The University of Lahore, passionate about **
 - Fortinet FCA: FortiGate Operator (In Progress)
 
 ## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/syed-zeeshan-ali-eng] (https://linkedin.com/in/syed-zeeshan-ali-eng)
-- Email: syedzeeshanali714@gmail.com
+- 📧 Email: syedzeeshanali714@gmail.com
+- 💼 [Connect on LinkedIn](https://linkedin.com/in/syed-zeeshan-ali-eng)
+- 
